@@ -28,7 +28,6 @@
 * AI-powered applications
 * Vector search and retrieval systems
 * Computer vision projects
-* System design and production infrastructure
 
 ---
 
