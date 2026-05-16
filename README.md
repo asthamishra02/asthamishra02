@@ -65,19 +65,6 @@
 
 ---
 
-## 🏆 Achievements
-
-* 🌟 Internship experience at ISRO
-* 🛰️ Worked on SAR-based remote sensing and biomass estimation
-* 📄 Published abstract at ISG–ISRS National Symposium 2025:  
-  **“Estimating Biophysical Parameters of Mangrove Forests of Indian Sundarbans using Extreme Gradient Boosting with C-band SAR data and Ground Measurements”**
-* 🥋 South Asian Karate medalist with multiple national-level achievements
-* 💻 Passionate about solving real-world problems using AI & ML
-
----
-
----
-
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/astha-mishra-81045224a/
